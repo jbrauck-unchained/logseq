@@ -1,8 +1,15 @@
-# Logseq Daily Meetings Notes Script
+# Logseq Scripts Repository
+
+This repository contains scripts for making a logseq experience more efficient.
+Table of contents:
+
+- Logseq Daily Meetings Notes Script
+
+## Logseq Daily Meetings Notes Script
 
 This script automatically generates Logseq meeting note templates from your Google Calendar events. It's designed to be run daily to create structured meeting notes for all your calendar events.
 
-## Features
+### Features
 
 - Authenticates with Google Calendar API
 - Fetches meetings for the current day
@@ -13,15 +20,15 @@ This script automatically generates Logseq meeting note templates from your Goog
   - Notes section
 - Saves templates to your Logseq journals directory
 
-## Getting Started
+### Getting Started
 
-### Prerequisites
+#### Prerequisites
 
 - Python 3.6 or higher
 - A Google Cloud project with Calendar API enabled
 - Logseq installed with a journals directory set up
 
-### Installation
+#### Installation
 
 1. Clone this repository
 2. Install required packages:
